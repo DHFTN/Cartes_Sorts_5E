@@ -10,3 +10,5 @@ Je mets aussi à votre disposition des modèles de cartes à compléter directem
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X047X1L)
 
 ![Cartes de sorts](https://www.black-book-editions.fr/contenu/users/78375/image/(Rendu)Magicien.png)
+
+![Cartes de sorts](https://www.black-book-editions.fr/contenu/users/78375/image/(Rendu)Sorts.jpg)
