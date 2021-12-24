@@ -1,6 +1,8 @@
 # Cartes de Sorts (5E)
 Des cartes de sorts pour les différentes classes du jeux de rôle 5E
 
+/!\ Pour une impression optimale, je vous conseille les réglages "Taille réelle" et "Plusieurs pages par feuille" dans vos paramètres d'impression. 
+
 ## Sorts OGL
 Ces cartes reprennent l'ensemble des sorts publiés sous licence OGL par WotC ou BBE (ce sont tous les sorts de feu H&D). Je vous mets à disposition un deck par classe, reprenant l'ensemble des sorts disponibles pour cette classe.
 
